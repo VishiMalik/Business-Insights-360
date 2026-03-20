@@ -30,3 +30,6 @@ I learned the following things in this project
 9. Sales, Marketing, Finance & Supply Chain metrics
 
 **************************
+
+Project Link:
+https://app.powerbi.com/view?r=eyJrIjoiN2RmOTFhZjQtZDlmZC00MjZlLThiOTktMWRlNzFlM2Y1ZjA2IiwidCI6ImQ4ZGQxYjA1LTExMmUtNDBkYS05YzVjLTQyYjA3ZTY3Mjk1OSJ9
